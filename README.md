@@ -6,7 +6,6 @@
 
 <div align="center">
 
-  <img src="https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1200&q=80" alt="AI and RL environment" width="1000" />
 
   <h3>Verifiable reinforcement learning environments for agentic training.</h3>
 
