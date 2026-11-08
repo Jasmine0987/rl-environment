@@ -28,6 +28,7 @@ Training agents with RL often fails when rewards are noisy, brittle, or easy to 
 
 This makes the reward signal more faithful to the task and much easier to reason about.
 
+Published on the Prime Intellect Environments Hub: [saracho/code-debugger](https://app.primeintellect.ai/dashboard/environments/saracho/code-debugger)
 ---
 
 ## Quick-start cards
